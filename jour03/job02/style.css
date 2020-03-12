@@ -1,0 +1,13 @@
+#t1{
+	display: flex;
+}
+
+#t2{
+	display: flex;
+}
+
+#button{
+	text-align: center;
+	padding: 1%;
+	margin: 5%;
+}
